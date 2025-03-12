@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-kumar-r-a" alt="sanjay-kumar-r-a" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK ,JAVA**
+- 🌱 I’m Software developer use Java
+- ☄️ I’m Full stack developer use MERN stack
 
 - 👨‍💻 All of my projects are available at [https://sanjaykumarskportfolio.netlify.app/](https://sanjaykumarskportfolio.netlify.app/)
 
